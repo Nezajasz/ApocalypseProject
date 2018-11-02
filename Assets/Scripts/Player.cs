@@ -103,7 +103,7 @@ public class Player : MonoBehaviour {
     }
 
 
-    //Test
+    //Testing
     void Test()
     {
         if (Input.GetKey(KeyCode.T))
